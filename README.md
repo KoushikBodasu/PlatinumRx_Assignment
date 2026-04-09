@@ -100,3 +100,9 @@ Koushik
 - Maintained clean and structured project organization
 - Focused on readability and clarity in all solutions
 
+  
+## 🔗 Links
+- GitHub Repository: https://github.com/KoushikBodasu/PlatinumRx_Assignment
+- Spreadsheet: https://docs.google.com/spreadsheets/d/1jb4cweQfzDTBL5dBD-7RHs9szkT3kKtIhNaJLZEqVi8/edit?gid=731071454#gid=731071454
+  
+
