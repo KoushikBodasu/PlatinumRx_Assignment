@@ -1,4 +1,4 @@
-## 🧠 SQL Analysis
+## 🧠 PlatinumRx
 
 ### 🔹 Hotel Management System
 
@@ -78,13 +78,6 @@
 
 ---
 
-## 📸 Screenshots
-
-(Optional)
-Screenshots of outputs are included for verification of results.
-
----
-
 ## 🎥 Demonstration
 
 A screen recording is provided explaining:
@@ -107,8 +100,3 @@ Koushik
 - Maintained clean and structured project organization
 - Focused on readability and clarity in all solutions
 
----
-
-## 📌 Note
-
-This project is created as part of an assessment to demonstrate practical data analysis skills.
